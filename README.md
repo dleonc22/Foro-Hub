@@ -10,6 +10,8 @@ Este programa se realizo en Java 17 y se encuentra en la rama MASTER.
 
 En este programa se pueden realizar varias consultas al API, por ejemplo:
 
+Crear cursos, eliminarlos, actualizarlos.
+
 Crear usuarios, elimarlos, actualizarlos.
 
 Crear topicos, actualizarlos, borrarlos.
